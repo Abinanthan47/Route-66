@@ -11,7 +11,7 @@ export default {
       },
       backgroundImage: {
         hero: "url('/bgy1.jpg')",
-        "hero-mob": "url('/bg-mob.jpg')",
+        heromob: "url('/bg-mob.jpg')",
       },
       colors: {
         background: "hsl(var(--background))",
