@@ -61,8 +61,15 @@ A modern marketplace for vintage car enthusiasts to buy, sell, and connect. Buil
 
 
 ## 📱 Screenshots
+## Home Page
+![image](https://github.com/user-attachments/assets/87b368a7-9651-4b78-a7f0-24b7e4507719)
 
-[Add screenshots of your application here]
+## Listing Page
+![image](https://github.com/user-attachments/assets/9bd91701-adef-4ddb-a0db-d50cfe694a7b)
+
+## Details Page
+![image](https://github.com/user-attachments/assets/42aa4206-eff3-40eb-8e2c-8c92110e715a)
+
 
 ## 🌟 Core Features Explained
 
