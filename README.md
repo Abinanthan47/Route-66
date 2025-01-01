@@ -1,6 +1,6 @@
 # Route-66 - Vintage Car Marketplace
 
-![Route-66 Logo](/public/logo1.png)
+
 
 A modern marketplace for vintage car enthusiasts to buy, sell, and connect. Built with React, Vite, and powered by modern web technologies.
 
@@ -38,24 +38,7 @@ A modern marketplace for vintage car enthusiasts to buy, sell, and connect. Buil
 
 ## 🛠️ Tech Stack
 
-- **Frontend**
 
-  - React + Vite
-  - TailwindCSS
-  - Shadcn UI Components
-  - Framer Motion
-
-- **Backend & Database**
-
-  - DrizzleORM
-  - Firebase Storage
-  - Clerk Authentication
-  - SendBird Chat SDK
-
-- **Development Tools**
-  - ESLint
-  - Prettier
-  - Git
 
 ## 🚀 Getting Started
 
@@ -95,39 +78,5 @@ A modern marketplace for vintage car enthusiasts to buy, sell, and connect. Buil
 - Track favorites
 - Update profile
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## 👥 Team
-
-- Frontend Developer - [Your Name]
-- UI/UX Designer - [Designer Name]
-- Project Manager - [PM Name]
-
-## 🙏 Acknowledgments
-
-- [Clerk](https://clerk.dev/) for authentication
-- [SendBird](https://sendbird.com/) for chat functionality
-- [Shadcn UI](https://ui.shadcn.com/) for UI components
-- [TailwindCSS](https://tailwindcss.com/) for styling
-
-## 📞 Contact
-
-For any queries or support, please contact:
-
-- Email: your.email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Website: [YourWebsite.com](https://yourwebsite.com)
-
----
-
-Made with ❤️ by [Your Name/Team]
+Made with ❤️ by Abinanthan
