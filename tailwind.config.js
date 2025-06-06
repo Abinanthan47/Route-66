@@ -10,7 +10,7 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       backgroundImage: {
-        hero: "url('/bgy1.jpg')",
+        hero: "url('https://github.com/Abinanthan47/Route-66/blob/main/public/herobg2.jpg?raw=true')",
         heromob: "url('/bg-mob.jpg')",
       },
       colors: {
