@@ -7,15 +7,15 @@ function Hero() {
   return (
     <div className="md:px-5">
       <div
-        className="w-full h-screen flex flex-col bg-[url('/bg-hero-mob.jpg')] md:justify-center items-center border-black border md:rounded-2xl"
+        className="w-full h-screen flex flex-col bg-[url('/bg-mob.jpg')] md:justify-center items-center border-black border md:rounded-2xl"
         style={{
-          backgroundImage: `url('/bg-hero-mob.jpg')`,
+         
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
       >
         <div
-          className="hidden md:block absolute bg-[url('/bg-hero.jpg')] inset-0"
+          className="hidden md:block absolute bg-[url('/bgy1.jpg')] inset-0"
           style={{
             backgroundImage: `url('/bg-hero.jpg')`,
             backgroundSize: 'cover',
